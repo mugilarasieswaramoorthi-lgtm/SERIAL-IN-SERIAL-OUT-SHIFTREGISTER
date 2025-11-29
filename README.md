@@ -61,11 +61,12 @@ RegisterNumber:25017644
 
 
 **RTL LOGIC FOR SISO Shift Register**
-<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/c852c797-c3be-4deb-845a-8232e3426781" />
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/f153cc2c-6c0e-43ac-b9b3-36d273db1691" />
 
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/f153cc2c-6c0e-43ac-b9b3-36d273db1691" />
+<img width="1920" height="1080" alt="Screenshot (59)" src="https://github.com/user-attachments/assets/c852c797-c3be-4deb-845a-8232e3426781" />
+
 
 
 **RESULTS**
